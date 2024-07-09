@@ -75,7 +75,7 @@ img {
 
 .product-category {
   text-transform: uppercase;
-  font-size: var(--fs-200);
+/*   font-size: var(--fs-200); */
   letter-spacing: 5px;
 }
 
