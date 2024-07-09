@@ -106,7 +106,6 @@ img {
   background-color: var(--clr-primary-400);
   color: var(--clr-secondary-200);
   font-weight: var(--fw-bold);
-  font-size: var(--fs-300);
 }
 
 /* .button[data-icon="shopping-cart"]::before {
