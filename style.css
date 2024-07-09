@@ -70,7 +70,7 @@ img {
   padding: var(--content-padding);
 
   display: grid;
-  gap: ;
+  gap: .8rem;
 }
 
 .product-category {
