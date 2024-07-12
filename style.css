@@ -52,7 +52,7 @@ img {
 
 .flex-group {
   display: flex;
-  gap: 1.1rem;
+  gap: 1rem;
   flex-wrap: wrap;
   align-items: center;
 }
