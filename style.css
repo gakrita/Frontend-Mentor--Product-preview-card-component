@@ -88,10 +88,6 @@ img {
   margin-bottom: 1.5rem;
 }
 
-.product-description {
-  margin-bottom: ;
-}
-
 .product-price__final {
   font-family: var(--ff-accent);
   color: var(--clr-primary-400);
