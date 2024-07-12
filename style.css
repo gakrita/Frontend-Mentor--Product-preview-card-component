@@ -104,7 +104,7 @@ img {
   border-radius: 8px;
   padding: 1rem;
   background-color: var(--clr-primary-400);
-  color: var(--clr-secondary-200);
+  color: var(--clr-neutral-100);
   font-weight: var(--fw-bold);
 }
 
