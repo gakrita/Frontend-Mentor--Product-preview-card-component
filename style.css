@@ -95,6 +95,10 @@ img {
   font-weight: var(--fw-bold);
 }
 
+.product-price__original {
+  font-size: 0.7rem;
+}
+
 .button {
   text-decoration: none;
   display: inline-flex;
@@ -127,10 +131,6 @@ img {
     display: grid;
     grid-template-columns: 1fr 1fr;
   }
-
-  .product-price__original {
-  font-size: 0.7rem;
-}
 
   .button {
     font-size: 0.9375rem;
