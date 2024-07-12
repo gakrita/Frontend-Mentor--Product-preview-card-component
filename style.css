@@ -95,10 +95,6 @@ img {
   font-weight: var(--fw-bold);
 }
 
-.product-price__original {
-  font-size: 0.75rem;
-}
-
 .button {
   text-decoration: none;
   display: inline-flex;
