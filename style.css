@@ -94,7 +94,7 @@ img {
 }
 
 .product-original-price {
-  font-size: .875rem;
+  font-size: var(--fs-200);
 }
 
 .button {
