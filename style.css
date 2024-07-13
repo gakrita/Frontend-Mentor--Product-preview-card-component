@@ -136,7 +136,7 @@ img {
   }
 
   .product-content {
-    gap: 0.58rem;
+    gap: rem;
   }
 
   .product-title {
