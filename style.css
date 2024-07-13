@@ -78,7 +78,7 @@ img {
   font-size: var(--fs-200);
   letter-spacing: 5px;
 
-  margin-bottom: 1rem;
+  margin-bottom: 1.2rem;
 }
 
 .product-title {
@@ -91,7 +91,7 @@ img {
 }
 
 .product-price {
-  margin-block: 1rem;
+  margin-block: 1.2rem;
 }
 
 .product-price__final {
