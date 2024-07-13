@@ -135,10 +135,6 @@ img {
     grid-template-columns: 1fr 1fr;
   }
 
-  .product-content {
-    gap: rem;
-  }
-
   .product-title {
     margin-bottom: 1.316rem;
 
