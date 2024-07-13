@@ -135,10 +135,6 @@ img {
     grid-template-columns: 1fr 1fr;
   }
 
-  .product-content {
-    gap: 0.62rem;
-  }
-
   .button {
     font-size: 0.9375rem;
     padding: 0.65rem;
