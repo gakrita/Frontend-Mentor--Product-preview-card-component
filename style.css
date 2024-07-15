@@ -116,7 +116,7 @@ img {
   padding: 0.925rem;
   background-color: var(--clr-primary-400);
   color: var(--clr-secondary-200);
-  font-size: 0.976rem;
+  font-size: 0.975rem;
   font-weight: var(--fw-bold);
   cursor: pointer;
 }
