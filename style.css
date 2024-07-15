@@ -145,6 +145,7 @@ img {
   }
 
   .button {
+    font-size: .875rem;
     padding-block: 0.9rem;
   }
 }
